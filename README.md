@@ -1,2 +1,2 @@
-# rallyapi
-For automating time consuming and repetitive tasks
+# Update the Rally data using Python Rally APIs
+`changeParent.py` - For Changing the parent of the project under the same workspace 
